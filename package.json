@@ -1,0 +1,25 @@
+{
+  "name": "hermes",
+  "version": "0.0.1",
+  "description": "A script manager",
+  "bin": {
+    "hermes": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/darioml/hermes-npm.git"
+  },
+  "author": "darioml",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darioml/hermes-npm/issues"
+  },
+  "homepage": "https://github.com/darioml/hermes-npm#readme",
+  "dependencies": {
+    "shelljs": "^0.7.0",
+    "yargs": "^4.6.0"
+  }
+}
